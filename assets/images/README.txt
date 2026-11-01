@@ -1,0 +1,1 @@
+Place the images referenced by the existing pages here, then update image paths if needed. Expected names include Banner.jpg, LOGO- Medical ARCHIEVES.png, and Beacon-HOspital-Banner-MEdical-scaled.jpg. These files were not present in the source set, so they are not included.

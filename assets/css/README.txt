@@ -1,0 +1,1 @@
+The current pages keep their original embedded CSS to preserve the existing design. You can move styles into this folder later.

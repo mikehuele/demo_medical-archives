@@ -1,0 +1,1 @@
+The current pages keep their original JavaScript. Login/dashboard data still uses the original demo logic until API/database calls are connected.
